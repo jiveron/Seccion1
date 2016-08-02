@@ -1,7 +1,7 @@
 /*
-logica2_1.1.cpp
-06/07/2016
-punto 2 de la parte de programadores de la seccion 1 del tp
+*punto 2 de la parte de programadores de la seccion 1 del tp
+*Dada una proposicion se ingresan los conectores logicos y se informa si se trata de tautologia, contradiccion o contingencia
+*26/07/2016
 */
 #include <iostream>
 #include <stdio.h>
