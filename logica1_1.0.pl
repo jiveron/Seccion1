@@ -1,3 +1,8 @@
+/*
+*Punto 1 de la seccion 1 del trabajo practico
+*Programa simple en prolog que utiliza hechos y reglas
+*2/8/2016
+*/
 
 ladron(walter).
 ladron(jesse).
